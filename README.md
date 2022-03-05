@@ -1,7 +1,7 @@
 Crack insta Premium
 
 
-git clone https://raminhakim/private
+git clone https://github.com/raminhakim/private
 
 cd private
 
